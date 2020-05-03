@@ -184,7 +184,7 @@ def user_stats(df):
     print('-'*40)
 
 def raw_data(df):
-    
+    """Displays raw data from the pandas dataframe 5 at a time """
     show_rows = 5
     rows_start = 0
     rows_end = show_rows - 1    
