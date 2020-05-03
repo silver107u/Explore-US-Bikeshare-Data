@@ -11,5 +11,5 @@ This project is done as a part of Udacity's Intro to Data Science Nanodegree wit
 The code is written in the file bikeshare.py and the data used is chicago.csv, washington.csv, new_york.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Credits goes to Udacity for designing the program, providing data and project specifications.
 
