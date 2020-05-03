@@ -5,7 +5,7 @@ This project is forked from udacity's github page on May 3rd, 2020. README.md fi
 Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This project is done as a part of Udacity's Intro to Data Science Nanodegree with Python Nanodegree. The code is written in python and it uses Pandas and Numpy libraries for computing statistics. The code finds the most popular travel day, station, etc.
 
 ### Files used
 Include the files used
