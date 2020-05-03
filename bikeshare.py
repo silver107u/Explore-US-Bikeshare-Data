@@ -219,7 +219,8 @@ def main():
         if restart.lower() != 'yes':
             break
 
-    print('-'*40) 
+    print('-'*40)  #print a boarder after this block of code is executed.
+    
     
 
 if __name__ == "__main__":
