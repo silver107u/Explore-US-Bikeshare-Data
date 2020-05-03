@@ -2,7 +2,7 @@
 This project is forked from udacity's github page on May 3rd, 2020. README.md file is also created on the same date.
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
 Describe what your project is about and what it does
